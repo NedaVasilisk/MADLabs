@@ -4,10 +4,10 @@
 ![Домашній екран](./screenshots/img1_home.png)
 
 ### Екран профілю
-![Екран профілю](./screenshots/img1_home.png)
+![Екран профілю](./screenshots/img2_profile.png)
 
 ### Екран контактів
-![Екран контактів](./screenshots/img1_home.png)
+![Екран контактів](./screenshots/img3_contact.png)
 
 # **Інструкція по запуску**
 
