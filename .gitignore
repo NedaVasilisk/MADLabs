@@ -1,5 +1,21 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android Studio
+.gradle/
+local.properties
+build/
+captures/
+
+# VS Code
+.vscode/
+*.code-workspace
+
 # dependencies
 node_modules/
 
